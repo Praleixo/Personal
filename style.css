@@ -263,6 +263,12 @@ button,
   font-size: 1.35rem;
 }
 
+.card__icon img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
 .card h3 {
   font-size: 1.3rem;
   margin-bottom: 16px;

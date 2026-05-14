@@ -1,0 +1,10 @@
+{
+  "name": "personal-autos-aleixo",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Site estatico da Personal Autos Aleixo.",
+  "scripts": {
+    "build": "echo Site estatico pronto para deploy na Vercel",
+    "deploy": "npx vercel --prod"
+  }
+}
