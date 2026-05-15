@@ -4,7 +4,7 @@
   "private": true,
   "description": "Site estatico da Personal Autos Aleixo.",
   "scripts": {
-    "build": "echo Site estatico pronto para deploy na Vercel",
+    "build": "node scripts/build-static.mjs",
     "deploy": "npx vercel --prod"
   }
 }
